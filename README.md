@@ -20,4 +20,4 @@ uhh... just host the index.html
 
 
 Also credits to my biology teacher for the images.
-English translations + some CSS was made with AI
+English translations + some CSS were made with AI
