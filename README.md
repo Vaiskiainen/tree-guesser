@@ -3,7 +3,7 @@
 
 **A finnish tree guessing game made to study for a test**
 
-## Try it out: https://treeguesser.vaiskiainen.fi/
+## Try it out: https://tree-guesser.pages.dev/
 
 </div>
 
